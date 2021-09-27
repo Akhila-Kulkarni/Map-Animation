@@ -19,7 +19,7 @@ Free to use. Also, follow MapBox Terms of service for use: https://www.mapbox.co
 ## Support:
 Akhila Kulkarni
 
-#Future improvements
+## Future improvements
 In future I plan to track multiple buses on multiple routes making it a cluster.
 
 ## Licence
