@@ -14,6 +14,8 @@ const busStops = [
     [-71.118625, 42.374863],
   ];
   
+console.log(busStops);
+console.log(busStops[0][0] + ", " + busStops[0][1]);
   // TODO: add your own access token
   mapboxgl.accessToken = 'pk.eyJ1IjoiYWtoaWxhODA1MCIsImEiOiJja3RqOG82NGkwZXF5MnFvMGh3Ym5nYjBkIn0.CNMNqXeZtVXURwUreyeoZQ';
   
